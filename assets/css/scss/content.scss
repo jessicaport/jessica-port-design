@@ -1,0 +1,217 @@
+/***************************/
+/**** Home Page Styles *****/
+/***************************/
+
+body.front .leftcontentcolumn {
+    width: 100%;
+    margin: 2em auto 1em auto;  
+  @media screen and (min-width: 700px) {
+    float: left;
+    margin-top: 2em;
+    margin-left: 1em;
+    width: 16.6%;
+  }
+}
+
+body.front .rightcontentcolumn {
+    float: none;
+    margin: 0 auto;
+    width: 98%;
+  @media screen and (min-width: 700px) {
+    margin: 5em 2em 0 2em;
+    float: right;
+    width: 63.8%;
+  }
+}
+
+body.front .rightcontentcolumn img {
+  width: 100%;
+  margin-bottom: 2em;
+}
+
+/**********************/
+/**** Page Styles *****/
+/**********************/
+
+.aboutaside {
+  font-size: .8em;
+  font-style: normal;
+}
+
+.leftcontentcolumn {
+  margin-top: 2em;
+  width: 100%;
+  float: none;
+  @media screen and (min-width: 700px) {
+    width: 19.4%;
+    float: left;
+  }
+}
+
+.rightcontentcolumn {
+  float: left;
+  margin: 0;
+  margin-top: 2em;
+  width: 100%;
+  @media screen and (min-width: 700px) {
+    float: left;
+    margin-left: 6%;
+    margin-top: 4em;
+    width: 74%;
+  }
+
+  li {
+    list-style: disc inside;
+    line-height: 1.5em;
+    font-size: .8em;
+    font-weight: 300;
+    font-style: normal;
+  }
+}
+
+.services_intro {
+  clear: both;
+  float: none;
+  width: 100%;
+  margin-bottom: 1.75em;
+  @media screen and (min-width: 700px) {
+    clear: none;
+    float: left;
+    width: 86%;
+  }
+}
+
+.services_column {
+  clear: both;
+  float: none;
+  margin-top: 1.5em;
+  width: 100%;
+  @media screen and (min-width: 700px) {
+    clear: none;
+    float: left;
+    margin: 0 1em;
+    width: 27%;
+    
+    .lastcolumn {
+      margin-right: 0;
+    }
+  }
+}
+  
+.rightcontentcolumnone {
+  margin-top: 2em;
+  width: 31%;
+  float: left;
+  clear: none;
+  @media screen and (min-width: 700px) {
+    margin-top: 5em;
+    width: 13%;
+    float: left;
+    margin-left: 6%;
+  }
+}
+
+.rightcontentcolumntwo {
+  clear: none;
+  float: left;  
+  margin-top: 2em;
+  width: 100%;
+  @media screen and (min-width: 700px) {
+    margin-left: 6%;
+    margin-top: 5em;
+    width: 38.8%;
+  }
+
+  p {
+    font-size: .85em;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 1.5em;
+    margin-top: 1em;
+  }
+  h3 {
+    margin-bottom: .5em;
+    margin-top: 1.5em;
+    &.first {
+      margin-top: 0;
+    }  
+  }
+}
+
+
+.rightcontentcolumnthree {
+  clear: both;
+  margin-top: 3.5em;
+  width: 100%;
+  @media screen and (min-width: 700px) {
+    width: 16.6%;
+    float: left;
+    margin-left: 6%;
+    clear: none;
+  }
+  
+  h3 {
+    margin-bottom: 1em;
+  }
+  
+  h4 {
+    margin-bottom: .25em;
+  }
+
+  p {
+    font-size: .85em;
+    margin-top: 0;
+  }
+  
+  .resume-pdf {
+    background: #4BBFBE;
+    display: block;
+    margin-top: 2em;
+    text-decoration: none;
+    text-align: center;
+    padding: .5em 10px;
+    width: 100%;
+    max-width: 170px;
+    &:hover {
+      background: #000;
+      color: #4BBFBE;
+      border-bottom: 0; 
+    }
+    small {
+      color: #FFF;
+      letter-spacing: .1em;
+      font-weight: 500;
+      &:before {
+        content: url('../../../assets/images/icon-doc.svg');
+        display: block;
+      }
+    }
+  }
+}
+
+ul.experience, ul.education {
+  list-style-type: none;
+  line-height: 1.25em;
+  font-size: .85em;
+  li {
+    margin-bottom: .75em;
+  }
+}
+
+.servicesaside {
+  width: 100%;
+  font-size: .8em;
+}
+
+.services.cf .servicesaside {
+  display: none;
+  visibility: hidden;
+  @media screen and (min-width: 700px) {
+    display: block;
+    visibility: visible;
+  }
+}
+
+.about, .services, .work {
+  border-top: 5px solid white;  
+}

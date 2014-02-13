@@ -1,0 +1,38 @@
+{
+  "name": "jessica-port-design",
+  "version": "0.0.0",
+  "description": "Jessica Port Design",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessicaport/jessica-port-design.git"
+  },
+  "keywords": [
+    "Web",
+    "Designer",
+    "Front",
+    "end",
+    "developer",
+    "Graphic",
+    "Designer",
+    "UI",
+    "Design"
+  ],
+  "author": "Jessica Port",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jessicaport/jessica-port-design/issues"
+  },
+  "homepage": "https://github.com/jessicaport/jessica-port-design",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-imagemin": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-sass": "~0.7.2"
+  }
+}

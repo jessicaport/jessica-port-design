@@ -1,0 +1,45 @@
+/****************************/
+/**** General Layout ********/
+/****************************/
+
+#wrapper {
+  background: #464646;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#container {
+  background: url("../../../assets/images/build/texture.png") repeat;
+}
+
+.pagecontent {
+  background-color: transparent;
+  clear: both;
+  float: none;
+  margin: 0 auto;
+  max-width: 1020px;
+  padding: 2em 3%;
+  position: relative;
+  @media screen and (min-width: 700px) {
+    margin: 2em auto 3em auto;
+  }   
+}
+
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+/* for extra margin / white space between elements */ 
+.onesquaremargin {
+  margin-top: 2em;
+  }
+.halfsquaremargin {
+  margin-top: 1em;
+}
+/* end */

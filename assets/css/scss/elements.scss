@@ -1,0 +1,86 @@
+/***************************************/
+/**** Foundation Elements & Type *******/
+/***************************************/
+
+body {
+  background-color: #464646;
+  color:#000;
+  font-family: $font-stack-sans;
+  font-size: 16px;
+  font-weight: 300;
+  text-align:left;
+}
+
+
+h1,h2,h3,h4 {
+  font-family: $font-stack-serif;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: 500;
+  font-style: normal;
+  color: #EB4446;
+  text-shadow: 2px 2px 1px #fff;
+}
+  
+h1:before {
+    color: #4BBFBE;
+    content: "{ ";
+}
+
+h2 {
+  font-size: 1.1em;
+  font-weight: 700;
+  line-height: 1.4em;
+  text-shadow: 2px 2px 1px 
+#fff;
+}
+  
+    
+h3 {
+  font-size: .85em;
+  font-weight: 700;
+  line-height: 1.4em;
+}
+
+h3:after {
+  color: #EB4446;
+    content: "{ ";
+}
+
+h4 {
+  font-size: .8em;
+  font-weight: 700;
+}
+    
+p {
+  font-size: .9em;
+  line-height: 1.4em;
+}
+
+a, a:link, a:visited {
+  color: #3C9997;
+  text-decoration: none;
+}
+
+p a:hover {
+  border-bottom: 2px solid #3C9997; 
+}
+
+img {
+  max-width: 100%;
+}
+
+strong {
+  font-family: $font-stack-serif;
+  font-weight: 700;
+  letter-spacing: -.5px;
+  word-spacing: -.5px;
+}
+
+.top {
+  float: right;
+  clear: both;
+  margin-top: 2em;
+}

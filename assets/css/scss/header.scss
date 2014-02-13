@@ -1,0 +1,78 @@
+/****************************/
+/**** Header Etc Styles *****/
+/****************************/
+
+#header {
+  background-color: #464646;
+  width: 100%;
+  top: 0px;
+  position: fixed;
+  list-style-type:none;
+  z-index: 999;
+}
+
+.logo {
+  display: block;
+  margin: 2em auto 0;
+  width: 75%;
+  @media screen and (min-width: 700px) {
+    max-width: 450px;
+  }
+}
+
+.logocontainer {
+  width: 100%;
+}
+
+/****************************/
+/**** Navigation Styles *****/
+/****************************/
+
+#navigation {
+  box-shadow: 0 1px 6px 1px rgba(0, 0, 0, 0.3);
+  height: 2.5em;
+  background: #000;
+  width: 100%;
+  @media screen and (min-width: 700px) {
+    height: 3em;
+  }
+
+  ul {
+    padding: .75em;
+    text-align: center;
+    @media screen and (min-width: 700px) {
+      padding: 1em 1em 1em 2em;
+    }
+  }
+      
+  li {
+    border-right: 1px solid #EB4446;
+    display:inline;
+    font-size: .7em;
+    letter-spacing: .1em;
+    font-family: $font-stack-serif;
+    font-weight: 500;
+    font-style: normal;
+    padding: 0 2% 0 2%;
+    @media screen and (min-width: 700px) {
+      font-size: 1em;
+    }
+  }
+
+  li:last-child {
+    border-right: 0;
+  }
+
+  a, a:visited {
+    color: #fff;
+  }
+
+  a:hover {
+    border-bottom: 2px solid #4BBFBE;
+  }
+
+  li #mini-logo{
+    display:none;
+   }
+}
+
