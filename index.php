@@ -12,7 +12,7 @@
 			
 			<div class="pagecontent">
 				<div class="logocontainer">
-					<img class="logo" src="assets/images/build/jplogo_large.png" alt="logo">
+					<img class="logo" src="assets/images/jplogo_large.svg" alt="logo">
 				</div>
 			</div>
 			
@@ -28,7 +28,7 @@
 						
 						<p class="aboutaside halfsquaremargin">
 	Born and raised in Southern California, I've recently returned after half a decade spent in Rhode Island. I completed my BFA in graphic design at Rhode Island School of Design.</p>
-	<p class="aboutaside halfsquaremargin">When I'm not designing, I enjoy getting outdoors, listening to music & public radio, jogging, watching films, dining out, reading, driving my '63 Falcon, and digging for the right LP at record shops.</p>
+	<p class="aboutaside halfsquaremargin">When I'm not designing, I enjoy getting outdoors, jogging, listening to music & public radio, watching films, good food, reading, and driving my '63 Falcon.</p>
 						</div>
 					
 					<!-- ALL RIGHT COLUMNS, after left hand column -->
@@ -45,19 +45,19 @@
 							<h3>EXPERIENCE </h3>
 							<ul class="experience">
 								<li><strong>Design Engineer</strong>  &#124;  <small>Dec. 2013 &ndash; Feb. 2014</small><br />
-								10up, Remote Position</li>
+								<a href="http://www.10up.com/">10up</a>, <em>Remote</em></li>
 								<li><strong>Web Designer & Front-end Developer</strong>  &#124;  <small>Aug. 2013 &ndash; Nov. 2013</small><br />
-								12 Spokes, Remote Position</li>
+								<a href="http://www.12spokes.com/">12 Spokes</a>, <em>Remote</em></li>
 								<li><strong>Web Designer & Front-end Developer</strong>  &#124;  <small>Feb. 2013 &ndash; Aug. 2013</small><br />
-								Embolden, Pawtucket, RI</li>
+								<a href="http://www.embolden.com/">Embolden</a>, <em>Pawtucket, RI</em></li>
 								<li><strong>Web Designer & Front-end Developer</strong>  &#124;  <small>2011 &ndash; 2013</small><br />
-								Schoolyard, Providence, RI</li>
+								<a href="http://www.schoolyard.com/">Schoolyard</a>, <em>Providence, RI</em></li>
 								<li><strong>Freelance Designer</strong>  &#124;  <small>2011 &ndash; Present</small><br />
-								Jessica Port Design, Providence, RI</li>
+								Jessica Port Design, <em>Providence, RI</em></li>
 								<li><strong>Graphic Designer</strong>  &#124;  <small>Summer 2010</small><br />
-								Moses Brown School, Providence, RI</li>
+								<a href="http://www.mosesbrown.org">Moses Brown School</a>, <em>Providence, RI</em></li>
 								<li><strong>Graphic Designer</strong>  &#124;  <small>2006 &ndash; 2007</small><br />
-								Roadtrip Nation, Costa Mesa, CA</li>
+								<a href="http://www.roadtripnation.com/">Roadtrip Nation</a>, <em>Costa Mesa, CA</em></li>
 							</ul>
 							
 							<h3>EDUCATION </h3>

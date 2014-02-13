@@ -3,17 +3,17 @@
 /***************************************/
 
 body {
-  background-color: #464646;
-  color:#000;
+  background-color: black;
+  color:#444;
   font-family: $font-stack-sans;
   font-size: 16px;
   font-weight: 300;
-  text-align:left;
 }
 
 
 h1,h2,h3,h4 {
   font-family: $font-stack-serif;
+  font-weight: normal;
 }
 
 h1 {
@@ -31,7 +31,6 @@ h1:before {
 
 h2 {
   font-size: 1.1em;
-  font-weight: 700;
   line-height: 1.4em;
   text-shadow: 2px 2px 1px 
 #fff;
@@ -40,18 +39,16 @@ h2 {
     
 h3 {
   font-size: .85em;
-  font-weight: 700;
   line-height: 1.4em;
 }
 
 h3:after {
   color: #EB4446;
-    content: "{ ";
+  content: "{ ";
 }
 
 h4 {
   font-size: .8em;
-  font-weight: 700;
 }
     
 p {

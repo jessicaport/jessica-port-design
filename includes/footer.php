@@ -2,8 +2,8 @@
 <div class="footer-inner" class="cf">				
 	<div class="contact">
 		<ul>
-		<li>CONTACT: <a href="mailto:jp@jessicaportdesign.com">jp@jessicaportdesign.com</a></li>
-		<li>LOCATION: Long Beach, CA</li>
+		<li><h4>CONTACT:</h4> <a href="mailto:jp@jessicaportdesign.com">jp@jessicaportdesign.com</a></li>
+		<li><h4>LOCATION:</h4> Long Beach, CA</li>
 		</ul>
 	</div>
 	
