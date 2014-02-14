@@ -37,7 +37,7 @@
 							<h3>EXPERIENCE </h3>
 							<ul class="experience">
 								<li><h4>Freelance Designer</h4>  &#124;  <small>2011 &ndash; Present</small><br />
-								Jessica Port Design, <em>Long Beach, CA</em></li>
+								Jessica Port Design</li>
 								<li><h4>Design Engineer</h4>  &#124;  <small>Dec. 2013 &ndash; Feb. 2014</small><br />
 								<a href="http://www.10up.com/">10up</a>, <em>Remote</em></li>
 								<li><h4>Web Designer & Front-end Developer</h4>  &#124;  <small>Aug. 2013 &ndash; Nov. 2013</small><br />
@@ -159,17 +159,33 @@
 					<div class="leftcontentcolumn">
 						<h1>work</h1>
 					</div>
-							
-					<div class="cf">
+
+					<div class="slide web cf">
 						<ul class="rs-slider">
+						    <li><img src="assets/images/slide_sfds.jpg" alt="" /></li>
+						    <li><img src="assets/images/slide_cds.jpg" alt="" /></li>
 						    <li><img src="assets/images/build/sy_cambridge.jpg" alt="" /></li>
-						    <li><img src="assets/images/build/slide_taismlogo.jpg" alt="" /></li>
-						    <li><img src="assets/images/build/slide_exhibitposter.jpg" alt="" /></li>
-						    <li><img src="assets/images/build/slide_marinlogo.jpg" alt="" /></li>
-						    <li><img src="assets/images/build/slide_frankbook.jpg" alt="" /></li>
-						    <li><img src="assets/images/build/slide_mosesbrown.jpg" alt="" /></li>
+						    <li><img src="assets/images/slide_180tacos.jpg" alt="" /></li>
 						</ul>
 					</div>
+
+					<div class="slide identity cf">
+						<ul class="rs-slider">
+						    <li><img src="assets/images/slide_taismlogo.jpg" alt="" /></li>
+						    <li><img src="assets/images/slide_marinlogo.jpg" alt="" /></li>
+						    <li><img src="assets/images/slide_trinitylogo.jpg" alt="" /></li>
+						</ul>
+					</div>
+
+					<div class="slide print cf">
+						<ul class="rs-slider">
+						    <li><img src="assets/images/build/slide_mosesbrown.jpg" alt="" /></li>							
+						    <li><img src="assets/images/build/slide_exhibitposter.jpg" alt="" /></li>
+						    <li><img src="assets/images/build/slide_frankbook.jpg" alt="" /></li>
+						    <li><img src="assets/images/slide_momaposter.jpg" alt="" /></li>
+						</ul>
+					</div>
+
 				<a href="#" class="top">top &uarr;</a>		
 				</div>
 			</div> <!-- end work -->

@@ -209,6 +209,18 @@
   }
 } //end services
 
+/**********************/
+/****** Work ******/
+/**********************/
+
+#work {
+  .slide {
+    &.identity, &.print {
+      margin-top: 5em;
+    }
+  }
+}
+
 #about, #services, #work {
   border-top: 2px solid white;  
 }
