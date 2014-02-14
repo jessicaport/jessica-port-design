@@ -4,7 +4,7 @@
 						<li><a href=#about>ABOUT</a></li>
 						<li><a href=#services>SERVICES</a></li>
 						<li><a href=#work>WORK</a></li>
-						<li><a href=#contact>CONTACT</a></li>
+						<li><a href=#footer>CONTACT</a></li>
 					</ul>
 				</div>
 				

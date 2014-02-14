@@ -121,7 +121,7 @@
     }
     
     .resume-pdf {
-      background: #4BBFBE;
+      background: $teal;
       display: block;
       margin-top: 2em;
       text-decoration: none;
@@ -131,7 +131,7 @@
       max-width: 170px;
       &:hover {
         background: #000;
-        color: #4BBFBE;
+        color: $teal;
         border-bottom: 0; 
       }
       small {
@@ -209,6 +209,6 @@
   }
 } //end services
 
-.about, .services, .work {
-  border-top: 5px solid white;  
+#about, #services, #work {
+  border-top: 2px solid white;  
 }
