@@ -1,5 +1,5 @@
 <footer>
-<div class="footer-inner" class="cf">				
+<div class="footer-inner cf">				
 	<div class="contact">
 		<ul>
 		<li><h4>CONTACT:</h4> <a href="mailto:jp@jessicaportdesign.com">jp@jessicaportdesign.com</a></li>

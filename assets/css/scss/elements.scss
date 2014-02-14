@@ -17,10 +17,11 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-  font-size: 1.5em;
-  font-weight: 500;
-  font-style: normal;
   color: #EB4446;
+  font-size: 1.5em;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 2em;
   text-shadow: 2px 2px 1px #fff;
 }
   
@@ -48,11 +49,10 @@ h3:after {
 }
 
 h4 {
-  font-size: .8em;
+  font-size: .85em;
 }
     
 p {
-  font-size: .9em;
   line-height: 1.4em;
 }
 
