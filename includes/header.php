@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="Keywords" content="jessica port, graphic design, web design, front-end development, rhode island school of design, long beach, los angeles, graphic designer, web designer, front-end developer, drupal, freelance" /><meta name="Description" content="Jessica Port Design. Web and Graphic Designer. Graduate of Rhode Island School of Design. Based in Long Beach, CA." />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="Keywords" content="jessica port, graphic design, web design, front end development, rhode island school of design, long beach, los angeles, graphic designer, web designer, front end developer, drupal, freelance" /><meta name="Description" content="Jessica Port Design. Web and Graphic Designer. Graduate of Rhode Island School of Design. Based in Long Beach, CA." />
 
   <title>Jessica Port Design</title>
 

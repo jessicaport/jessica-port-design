@@ -32,7 +32,7 @@
 						<!-- BEGIN COLUMN TWO -->
 						<div class="rightcontentcolumntwo cf">
 							<h3 class="first">SUMMARY </h3>
-							<p>Designer & front-end developer with BFA in graphic design from Rhode Island School of Design, professional experience, and a keen visual design sense backed up by solid production skills. Focused on both designing and developing for the web.</p>
+							<p>Designer & front end developer with BFA in graphic design from Rhode Island School of Design, professional experience, and a keen visual design sense backed up by solid production skills. Focused on both designing and developing for the web.</p>
 							
 							<h3>EXPERIENCE </h3>
 							<ul class="experience">
@@ -40,11 +40,11 @@
 								Jessica Port Design</li>
 								<li><h4>Design Engineer</h4>  &#124;  <small>Dec. 2013 &ndash; Feb. 2014</small><br />
 								<a href="http://www.10up.com/">10up</a>, <em>Remote</em></li>
-								<li><h4>Web Designer & Front-end Developer</h4>  &#124;  <small>Aug. 2013 &ndash; Nov. 2013</small><br />
+								<li><h4>Web Designer & Front End Developer</h4>  &#124;  <small>Aug. 2013 &ndash; Nov. 2013</small><br />
 								<a href="http://www.12spokes.com/">12 Spokes</a>, <em>Remote</em></li>
-								<li><h4>Web Designer & Front-end Developer</h4>  &#124;  <small>Feb. 2013 &ndash; Aug. 2013</small><br />
+								<li><h4>Web Designer & Front End Developer</h4>  &#124;  <small>Feb. 2013 &ndash; Aug. 2013</small><br />
 								<a href="http://www.embolden.com/">Embolden</a>, <em>Pawtucket, RI</em></li>
-								<li><h4>Web Designer & Front-end Developer</h4>  &#124;  <small>May 2011 &ndash; Feb. 2013</small><br />
+								<li><h4>Web Designer & Front End Developer</h4>  &#124;  <small>May 2011 &ndash; Feb. 2013</small><br />
 								<a href="http://www.schoolyard.com/">Schoolyard</a>, <em>Providence, RI</em></li>
 								<li><h4>Graphic Designer</h4>  &#124;  <small>Jun. 2010 &ndash; Aug. 2010</small><br />
 								<a href="http://www.mosesbrown.org">Moses Brown School</a>, <em>Providence, RI</em></li>
@@ -118,7 +118,7 @@
 									<p>Need a new site, a design overhaul, or updates made? I create effective, well designed, user friendly websites.</p>
 									<ul>
 									<li>Web design</li>
-									<li>Front-end development</li>
+									<li>front end development</li>
 									<li>Modifications to existing sites</li>
 									</ul>
 							</div>
