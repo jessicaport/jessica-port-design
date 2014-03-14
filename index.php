@@ -17,7 +17,7 @@
 			</div>
 			
 <!-- BEGIN PAGE SPECIFIC CONTENT -->
-			<div id="about">
+			<section id="about">
 				<div class="pagecontent about cf">
 				<h1>about</h1>
 					<div class="leftcontentcolumn">
@@ -89,14 +89,13 @@
 						</div>
 						
 						<!--END THIRD COLUMN-->	
-						
-				<a href="#" class="top">top &uarr;</a>	
+							
 				</div>
-			</div> <!-- end about -->
+			</section> <!-- end about -->
 			<!-- END PAGE SPECIFIC CONTENT -->
 			
 			<!-- BEGIN PAGE SPECIFIC CONTENT -->
-			<div id="services">
+			<section id="services">
 				<div class="pagecontent services cf">
 					<h1>services</h1>				
 					<div class="leftcontentcolumn">
@@ -147,14 +146,13 @@
 				 					</ul>
 							</div>		
 								
-					</div>
-				<a href="#" class="top">top &uarr;</a>		
+					</div>		
 				</div>
-			</div> <!-- end services -->
+			</section> <!-- end services -->
 			<!-- END PAGE SPECIFIC CONTENT -->
 			
 			<!-- BEGIN PAGE SPECIFIC CONTENT -->
-			<div id="work">
+			<section id="work">
 				<div class="pagecontent work cf">		
 					<div class="leftcontentcolumn">
 						<h1>work</h1>
@@ -185,12 +183,11 @@
 						    <li><img src="assets/images/slide_momaposter.jpg" alt="" /></li>
 						</ul>
 					</div>
-
-				<a href="#" class="top">top &uarr;</a>		
+		
 				</div>
-			</div> <!-- end work -->
+			</section> <!-- end work -->
 			<!-- END PAGE SPECIFIC CONTENT -->
-			
+			<a href="#" class="top">top &uarr;</a>
 		</div><!-- end #container -->
 					<!-- BEGIN FOOTER -->			
 			

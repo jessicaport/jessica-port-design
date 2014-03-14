@@ -77,7 +77,12 @@ strong {
 }
 
 .top {
-  float: right;
-  clear: both;
-  margin-top: 2em;
+  background: $teal;
+  border-radius: 5px 5px 0 0;
+  bottom: 0;
+  color: white !important;
+  padding: 0.25em 10px;
+  position: fixed;
+  right: 5px;
+  z-index: 10;
 }
