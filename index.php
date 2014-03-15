@@ -40,7 +40,7 @@
 								Jessica Port Design</li>
 								<li><h4>Design Engineer</h4>  &#124;  <small>Dec. 2013 &ndash; Feb. 2014</small><br />
 								<a href="http://www.10up.com/">10up</a>, <em>Remote</em></li>
-								<li><h4>Web Designer & Front End Developer</h4>  &#124;  <small>Aug. 2013 &ndash; Nov. 2013</small><br />
+								<li><h4>Front End Designer</h4>  &#124;  <small>Aug. 2013 &ndash; Nov. 2013</small><br />
 								<a href="http://www.12spokes.com/">12 Spokes</a>, <em>Remote</em></li>
 								<li><h4>Web Designer & Front End Developer</h4>  &#124;  <small>Feb. 2013 &ndash; Aug. 2013</small><br />
 								<a href="http://www.embolden.com/">Embolden</a>, <em>Pawtucket, RI</em></li>
