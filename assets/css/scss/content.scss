@@ -216,7 +216,10 @@
 #work {
   .slide {
     &.identity, &.print {
-      margin-top: 5em;
+      margin-top: 3em;
+      @media screen and (min-width: 700px) {
+        margin-top: 5em;
+      }
     }
   }
 }
