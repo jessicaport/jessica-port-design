@@ -74,42 +74,51 @@ footer {
       margin: 0 7px;
       width: 30px;
     }
+
+    .icon {
+      background-image: url(../../../assets/images/jpdesign_socialmediaicons.png);
+      background-repeat: no-repeat;
+      background-color: transparent;
+      &:hover {
+        border-bottom: 0;
+      }
+    }
+
+    .twitter {
+      background-position: 0 top;
+      &:hover {
+        background-position: 0 bottom;
+      }
+    }
+
+    .linkedin {
+      background-position: -30px top;
+      &:hover {
+        background-position: -30px bottom;
+      }
+    }
+
+    .instagram {
+      background-position: -60px top;
+      &:hover {
+        background-position: -60px bottom;
+      }
+    }
+
+    .dribbble {
+      background-position: -90px top;
+      &:hover {
+        background-position: -90px bottom;
+      }
+    }
+
+    .github {
+      background-position: -120px top;
+      &:hover {
+        background-position: -120px bottom;
+      }
+    }
+
   } //end social media
-
-  .twitter {
-    background: url(../../../assets/images/build/twitter.png) no-repeat transparent 0 0;
-  }
-
-  .twitter:hover {
-    background: url(../../../assets/images/build/twitter.png) no-repeat transparent bottom;
-    border-bottom: 0;
-  }
-
-  .linkedin {
-    background: url(../../../assets/images/build/linkedin.png) no-repeat transparent top;
-  }
-
-  .linkedin:hover {
-    background: url(../../../assets/images/build/linkedin.png) no-repeat transparent bottom;
-    border-bottom: 0;
-  }
-
-  .instagram {
-    background: url(../../../assets/images/build/instagram.png) no-repeat transparent top;
-  }
-
-  .instagram:hover {
-    background: url(../../../assets/images/build/instagram.png) no-repeat transparent bottom;
-    border-bottom: 0;
-  }
-
-  .dribbble {
-    background: url(../../../assets/images/build/dribbble.png) no-repeat transparent top;
-  }
-
-  .dribbble:hover {
-    background: url(../../../assets/images/build/dribbble.png) no-repeat transparent bottom;
-    border-bottom: 0;
-  }
 
 } //end footer
