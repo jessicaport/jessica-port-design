@@ -12,7 +12,7 @@
 			
 			<div class="pagecontent">
 				<div class="logocontainer">
-					<img class="logo" src="assets/images/jplogo_large.svg" alt="logo">
+					<img class="logo" src="assets/images/jplogo_large.svg" alt="Jessica Port Design">
 				</div>
 			</div>
 			
@@ -21,7 +21,7 @@
 				<div class="pagecontent about cf">
 				<h1>about</h1>
 					<div class="leftcontentcolumn">
-						<img src="assets/images/build/jp.jpg" alt="Jessica Port">
+						<img src="assets/images/build/jp.jpg" alt="Photo of Jessica Port">
 						<p class="aboutaside halfsquaremargin">
 	Born and raised in Southern California, I've recently returned after half a decade spent in Rhode Island. I completed my BFA in graphic design at Rhode Island School of Design.</p>
 	<p class="aboutaside halfsquaremargin">When I'm not designing, I enjoy getting outdoors, jogging, listening to music & public radio, watching films, good food, reading, and driving my '63 Falcon.</p>
@@ -35,7 +35,7 @@
 							<p>Designer & front end developer with BFA in graphic design from Rhode Island School of Design, professional experience, and a keen visual design sense backed up by solid production skills. Focused on both designing and developing for the web.</p>
 							
 							<h3>EXPERIENCE </h3>
-							<ul class="experience">
+							<ol class="experience">
 								<li><h4>Freelance Designer</h4>  &#124;  <small>2011 &ndash; Present</small><br />
 								Jessica Port Design</li>
 								<li><h4>Design Engineer</h4>  &#124;  <small>Dec. 2013 &ndash; Feb. 2014</small><br />
@@ -50,10 +50,10 @@
 								<a href="http://www.mosesbrown.org">Moses Brown School</a>, <em>Providence, RI</em></li>
 								<li><h4>Graphic Designer</h4>  &#124;  <small>Aug. 2006 &ndash; Apr. 2007</small><br />
 								<a href="http://www.roadtripnation.com/">Roadtrip Nation</a>, <em>Costa Mesa, CA</em></li>
-							</ul>
+							</ol>
 							
 							<h3>EDUCATION </h3>
-							<ul class="education">
+							<ol class="education">
 								<li><h4>Rhode Island School of Design</h4>, Providence, RI &#124; <small>2008 &ndash; 2011</small><br />
 									Bachelor of Fine Arts, Graphic Design</li>
 								<li><h4>Art Center College of Design</h4>, Pasadena, CA &#124; <small>2008</small><br />
@@ -64,7 +64,7 @@
 								Graphic design coursework, <em>Honors List</em></li>
 								<li><h4>Orange Coast College</h4>, Costa Mesa, CA &#124; <small>2002 &ndash; 2006</small><br />
 									Associate in Arts, <em>Alpha Gamma Sigma, Phi Theta Kappa</em></li>
-							</ul>	
+							</ol>	
 							
 						</div>
 						<!-- END COLUMN TWO -->
