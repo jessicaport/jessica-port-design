@@ -119,7 +119,7 @@
 									<ul>
 									<li>Web design</li>
 									<li>Mobile Design</li>
-									<li>Redesigns</li>
+									<li>Redesign of Existing Site</li>
 									</ul>
 							</div>
 							
