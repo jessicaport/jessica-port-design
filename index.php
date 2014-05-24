@@ -24,7 +24,7 @@
 						<img src="assets/images/build/jp.jpg" alt="Photo of Jessica Port">
 						<p class="aboutaside halfsquaremargin">
 	Born and raised in Southern California, I've recently returned after half a decade spent in Rhode Island. I completed my BFA in graphic design at Rhode Island School of Design.</p>
-	<p class="aboutaside halfsquaremargin">When I'm not designing, I enjoy getting outdoors, jogging, listening to music & public radio, watching films, good food, reading, and driving my '63 Falcon.</p>
+	<p class="aboutaside halfsquaremargin">When I'm not designing, I enjoy getting outdoors, jogging, listening to music & public radio, watching films, cooking good food, reading, and driving my '63 Falcon.</p>
 						</div>
 					
 					<!-- ALL RIGHT COLUMNS, after left hand column -->
@@ -32,10 +32,12 @@
 						<!-- BEGIN COLUMN TWO -->
 						<div class="rightcontentcolumntwo cf">
 							<h3 class="first">SUMMARY </h3>
-							<p>Designer & front end developer with BFA in graphic design from Rhode Island School of Design, professional experience, and a keen visual design sense backed up by solid production skills. Focused on both designing and developing for the web.</p>
+							<p>Creative web designer & front end developer, skilled in responsive design, typography, and visual branding, with a BFA in graphic design from Rhode Island School of Design.</p>
 							
 							<h3>EXPERIENCE </h3>
 							<ol class="experience">
+								<li><h4>User Experience Designer</h4>  &#124;  <small>May 2014 &ndash; Present</small><br />
+								<a href="http://www.truecar.com/">TrueCar</a>, Santa Monica, CA</li>
 								<li><h4>Freelance Designer</h4>  &#124;  <small>2011 &ndash; Present</small><br />
 								Jessica Port Design</li>
 								<li><h4>Design Engineer</h4>  &#124;  <small>Dec. 2013 &ndash; Feb. 2014</small><br />
@@ -107,30 +109,27 @@
 							
 					<div class="rightcontentcolumn">		
 						<div class="services_intro">
-							<h2>
-							Design for web, print, or branding &mdash; I've got you covered with a range of graphic design services to fit your needs. I'll find creative solutions to help your business succeed.
+							<h2>I've got you covered with a range of web design services to fit your needs. I'll find creative solutions to help your business succeed.
 							</h2>
 						</div>
 							
 							<div class="services_column">	
-								<h2>Web</h2>
-									<p>Need a new site, a design overhaul, or updates made? I create effective, well designed, user friendly websites.</p>
+								<h2>Web Design</h2>
+									<p>Need a new site, or a design overhaul? I create effective, well designed, user-friendly websites.</p>
 									<ul>
 									<li>Web design</li>
-									<li>front end development</li>
-									<li>Modifications to existing sites</li>
+									<li>Mobile Design</li>
+									<li>Redesigns</li>
 									</ul>
 							</div>
 							
 							<div class="services_column">	
-							<h2>Print</h2>
-									<p>Print isn't dead. I design quality print collateral and publications with fine attention to detail.</p>
+							<h2>Front End Development</h2>
+									<p>Code written the right way the first time around, to get your design looking great and working beautifully.</p>
 									<ul>
-									<li>Business Cards</li>
-									<li>Stationery</li>
-									<li>Flyers & Postcards</li>
-									<li>Advertisements</li>
-									<li>Brochures & Booklets</li>
+									<li>Responsive Design</li>
+									<li>Content Management Systems (Wordpress, Drupal)</li>
+									<li>Updates to Existing Sites</li>
 									</ul>
 								</div>	
 							
@@ -142,7 +141,6 @@
 									<li>Logo design</li>
 									<li>Color palette</li>
 									<li>Type styles</li>
-									
 				 					</ul>
 							</div>		
 								
